@@ -8,6 +8,6 @@
   - Email:sassykiara06@gmail.com
 
 ### My Projects  
-- Bookshop Management System](https://github.com/kkiara06/bookshop): A Python CLI game.  
+- Bookshop Management System](https://github.com/kkiara06/bookshop):An online bookstore  
 - [Portfolio](https://github.com/kkiara06/Portfolio): My responsive web portfolio.  # kkiara062
 My Github profile README
